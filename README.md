@@ -58,4 +58,4 @@ The framework defines an modular interface that allows full customization of the
 
 ## Acknowledgements
 
-This work originated from the QuestMiner project (grant no. 01IS12051) and was partially funded by the German Federal Ministry of Education and Research (BMBF).
+This work originated from the QuestMiner project (grant no. 01IS12051) and was partially funded by the German Federal Ministry of Education and Research (BMBF). The work was supported by the [SDIL](http://www.sdil.de), which also maintains, this code base within the BMBF SDI-X Project (grant no. 01IS15035A)
